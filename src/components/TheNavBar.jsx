@@ -9,7 +9,12 @@ const TheNavBar = () => {
       </div>
 
       <div className="flex items-center gap-x-1.5 text-2xl bg-[#FAF0E6] text-[#352F44] px-5 py-2 rounded-md cursor-pointer hover:bg-[#B9B4C7] hover:transition 500 hover:font-semibold">
-        <Link to={""}>
+        <Link
+          to={
+            "https://github.com/Mushkir/react-form-validation-react-hook-form"
+          }
+          target="_blank"
+        >
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="1em"

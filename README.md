@@ -6,7 +6,7 @@ Create a form and do the data validation using React-Hook-Form
 
 ### Live link
 
-> Wil be
+https://react-form-validation-react-hook-form.netlify.app/
 
 ## Technologies and Libraries Used and Learned
 
@@ -27,7 +27,7 @@ Create a form and do the data validation using React-Hook-Form
 - Clone the Repo into Local machine
 
 ```bash
-  git clone https://github.com/Mushkir/react-components.git
+  git clone https://github.com/Mushkir/react-form-validation-react-hook-form.git
 
 ```
 
